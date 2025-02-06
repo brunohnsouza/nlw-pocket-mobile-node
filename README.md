@@ -1,6 +1,6 @@
 # Nearby 
 
-O Nearby é um aplicativo mobile de clube de benefícios com cupons para utilizar em estabelicimentos próximos a você.
+O Nearby é um aplicativo mobile de clube de benefícios com cupons para utilizar em estabelecimentos próximos a você.
 
 ## Índice
 
